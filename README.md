@@ -88,7 +88,27 @@ The Revision 1 (Rev1) implements a USB hub based on the FE1.1 USB HUB IC.
 
 Connection to the PC is achieved through a USB-C connector while devices downstream will use USB-A ports.
 
-Mind that the USB-C connector is wider than the original USB mini connector used, therefore modifications to enlarge the port cutout on the case will be needed. In case you will use this board in an aftermarket case already designed with USB-C in mind n o further modifications are needed.s
+Mind that the USB-C connector is wider than the original USB mini connector used, therefore modifications to enlarge the port cutout on the case will be needed. In case you will use this board in an aftermarket case already designed with USB-C in mind n o further modifications are needed.
+
+#### RGB header
+
+![RGB header](/Assets/rgb_header.png)
+
+The mainboard features an RGB header for connecting +5V addressable RGB strips. THe properties of the lihting can be controlled through Vial or by assigning RGB control keycodes on the board itself.
+
+On the bottom right corner of the PCB, near the bootloader instructions, a pinout diagram shows how to connect the strip to the header:
+
+![RGB legend](/Assets/rgb_legend.png)
+
+#### DFU
+
+To access the DFU mode of the mainboard you can perform one of the following actions:
+
+- press the key to which the `QK_BOOT` keycode is assigned (if available)
+- while plugging in the board keep the `ESC` (top left corner key) pressed
+- while plugging in the board short the `Boot0` pins on the mainboard
+
+![Boot0 pins](/Assets/boot0_pins.png)
 
 ## PCB order procedure
 
