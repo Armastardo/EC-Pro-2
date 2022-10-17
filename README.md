@@ -68,7 +68,11 @@ Normal Controller board:
 
 ### Prototypes
 
-Mainboard: *Pending*
+Mainboard:
+
+![PCB Front](/Assets/PCB_front.png)
+
+![PCB Back](/Assets/PCB_back.png)
 
 Lite Controller:
 ![Lite Controller](/Assets/lite_controller.png)
