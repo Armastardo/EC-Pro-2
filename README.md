@@ -126,8 +126,6 @@ Both the `Lite` and `Normal` controllers can be instead be ordered with standard
 
 The production can be found in the [Production folder](/Production).
 
-In there you'll find the main PCB files and the JIS and HHKB plates.
-
 As usual the `*.zip` files are the gerber files, `BOM-*.csv` are the BOM (Bill Of Material) files and `POS-*.csv` are the POS/CPL (Footprint POSition/Component Placement List) files.
 
 ## Mainboard
