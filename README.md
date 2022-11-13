@@ -155,25 +155,6 @@ Here follows the options to be used for assembly:
 - Tooling holes: `Added by JLCPCB`
 - Confirm Parts Placement: `yes`
 
-**USB-A connector**
-
-An alternative part that has been tested and works is the `JINJIA USB-SMT-04F-S1-B1-R11` from [LCSC](https://www.lcsc.com/product-detail/USB-Connectors_JINJIA-USB-SMT-04F-S1-B1-R11_C718023.html).
-
-As a general rule of thumb the USB-A connectors are interchangeable if they meet the following requirmemnts:
-
-- fits the PCB outline
-- has the same number of pins and mounting
-- has the following receptor configuration
-
-  ![USB-A receptacle](/Assets/usb_a_receptacle.png)
-
-  To be more specific, the plastic part of the connector should be on the top and not the bottom.
-
-  **BEWARE** that some USB-A connectors have the plastic part on the bottom, in this case the connector will have the pinout reversed, therefore causing inverse polarity on the USB lines.
-  The following picture shows the correct orientation of the USB-A connector on the top board while the incorrect one on the bottom board:
-
-  ![USB-A orientation](/Assets/usb_a_right_vs_wrong_orientation.png)
-
 ### NOTES ABOUT THE OPTIONS
 
 - Once you upload the gerber files wait for the system to automatically recognize the board outline and layers. It will take a while, be patient.
