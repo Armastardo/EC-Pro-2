@@ -14,4 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "ec_pro2.h"
+#pragma once
+
+// This is the size of the EEPROM for the custom VIA-specific data
+#define EECONFIG_USER_DATA_SIZE 4
