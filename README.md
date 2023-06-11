@@ -2,6 +2,8 @@
 
 Open source HHKB Pro2 Controller and mainboard.
 
+## **Soon to be DEPRECATED**
+Project soon to be deprecated in favor of the EC Pro X.
 ## Introduction
 
 This project is a continuation of my development of open source EC boards.
