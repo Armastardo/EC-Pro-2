@@ -191,5 +191,3 @@ The EC Pro2 project is intended as a full replacement kit for the OEM HHKB Pro2 
 ## Copyright notice
 
 This project is not endorse nor sponsored in any way by Topre Corporation and PFU Limited. The HHKB Logo and Topre logo are trademarks of their respective owners.
-
-This project is released under the MIT License. For the license, please refer to the LICENSE.md file.
