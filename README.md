@@ -2,6 +2,12 @@
 
 Open source HHKB Pro2 Controller and mainboard.
 
+## **MODIFIED**
+
+This is a modification of the board made by Cipulot. The only change is a different footprint to use the [USB1130-15-A](https://www.mouser.com/ProductDetail/640-USB1130-15-A) port since the original part it's no longer available and I couldn't find a proper replacement anywhere. The back side of the PCB also contains the URL to this repository and some text to acknowledge the difference. The port is not available at LCSC so you'll need to order separately and solder yourself. It's a THT port so it should be really easy for anyone. Next up is the original text of the repository.
+
+The USB port symbol, footprint and PCB Model were sourced from [snap EDA](https://www.snapeda.com/parts/USB1130-15-A/Global%20Connector%20Technology/view-part/?welcome=home&ref=mouser).
+
 ## **DEPRECATED**
 
 Project deprecated in favor of the EC Pro X.

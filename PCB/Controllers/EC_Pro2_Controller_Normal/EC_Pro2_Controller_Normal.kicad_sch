@@ -9208,7 +9208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cipulot_parts:USB-SMT-04F-S1-B1-R9A"
+		(property "Footprint" "USB1130-15-A:GCT_USB1130-15-A_REVA"
 			(at 78.105 151.765 0)
 			(effects
 				(font
@@ -9227,15 +9227,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.295 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C718022"
 			(at 74.295 150.495 0)
 			(effects
 				(font
@@ -12286,7 +12277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cipulot_parts:USB-SMT-04F-S1-B1-R9A"
+		(property "Footprint" "USB1130-15-A:GCT_USB1130-15-A_REVA"
 			(at 113.03 133.985 0)
 			(effects
 				(font
@@ -12305,15 +12296,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 132.715 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C718022"
 			(at 109.22 132.715 0)
 			(effects
 				(font
@@ -13085,7 +13067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cipulot_parts:USB-SMT-04F-S1-B1-R9A"
+		(property "Footprint" "USB1130-15-A:GCT_USB1130-15-A_REVA"
 			(at 33.655 151.765 0)
 			(effects
 				(font
@@ -13104,15 +13086,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.845 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C718022"
 			(at 29.845 150.495 0)
 			(effects
 				(font
